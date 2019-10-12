@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="springbootstart" target="11.0.4" />
+      <module name="springbootstart" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>
