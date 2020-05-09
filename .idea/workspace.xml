@@ -1,39 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2c54860e-7830-4ff1-bc29-08ae71132fcf" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/thriftCompiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/builder/Bike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/builder/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/builder/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/builder/Director.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/builder/IBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/builder/MobikeBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/builder/OfoBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/strategy/AddAlgorithmStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/strategy/AliPay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/strategy/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/strategy/DecreaseAlgorithmStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/strategy/IStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/strategy/JDPay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/strategy/Payment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/strategy/PaymentContext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/strategy/StrategyContext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/strategy/WechatPay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/jdk/DelayQueueTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springbootstart.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springbootstart.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/springboot/HelloWorldMainApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/springboot/SpringBootMainApp.java" afterDir="false" />
-    </list>
+    <list default="true" id="2c54860e-7830-4ff1-bc29-08ae71132fcf" name="Default" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -106,7 +74,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -288,7 +256,7 @@
       <workItem from="1585666906209" duration="2799000" />
       <workItem from="1585996275967" duration="14709000" />
       <workItem from="1586777571070" duration="1196000" />
-      <workItem from="1589005387729" duration="2327000" />
+      <workItem from="1589005387729" duration="2519000" />
     </task>
     <servers />
   </component>
@@ -360,12 +328,12 @@
       <screen x="1920" y="0" width="1920" height="1030" />
     </state>
     <state x="2579" y="230" key="RollbackChangesDialog/1920.0.1920.1030/0.0.1536.824@1920.0.1920.1030" timestamp="1589007487528" />
-    <state x="461" y="0" key="SettingsEditor" timestamp="1585996315451">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="2496" y="179" key="SettingsEditor" timestamp="1589010578010">
+      <screen x="1920" y="0" width="1920" height="1030" />
     </state>
     <state x="461" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1585996315451" />
     <state x="461" y="109" key="SettingsEditor/1920.0.1920.1030/0.0.1536.824@0.0.1536.824" timestamp="1585145606250" />
-    <state x="2496" y="179" key="SettingsEditor/1920.0.1920.1030/0.0.1536.824@1920.0.1920.1030" timestamp="1584524850686" />
+    <state x="2496" y="179" key="SettingsEditor/1920.0.1920.1030/0.0.1536.824@1920.0.1920.1030" timestamp="1589010578010" />
     <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1589007417514">
       <screen x="1920" y="0" width="1920" height="1030" />
     </state>
