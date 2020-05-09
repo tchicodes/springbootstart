@@ -2,16 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c54860e-7830-4ff1-bc29-08ae71132fcf" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/thriftCompiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/builder/Bike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/builder/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/builder/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/builder/Director.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/builder/IBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/builder/MobikeBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/builder/OfoBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/strategy/AddAlgorithmStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/strategy/AliPay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/strategy/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/strategy/DecreaseAlgorithmStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/strategy/IStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/strategy/JDPay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/strategy/Payment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/strategy/PaymentContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/strategy/StrategyContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/design/strategy/WechatPay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/jdk/DelayQueueTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_4_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_3_Final.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_28.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/springbootstart.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springbootstart.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/springboot/HelloWorldMainApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/springboot/SpringBootMainApp.java" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,6 +56,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="FxmlFile" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -52,52 +76,62 @@
   <component name="MavenRunner">
     <option name="jreName" value="11" />
   </component>
+  <component name="ProjectId" id="1SB6XmVXP5oS2ubEXcfIYT7cLuv" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SearchEverywhereHistoryKey" value="mav&#9;ACTION&#9;ActivateMavenProjectsToolWindow&#10;m&#9;ACTION&#9;ActivateMavenProjectsToolWindow&#10;maven&#9;ACTION&#9;ActivateMavenProjectsToolWindow" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="D:/workspace/audit/audit-shield" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.springboot" />
+    </key>
   </component>
   <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HelloWorldMainApp">
+  <component name="RunManager" selected="JUnit.QueueTest.test">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloWorldMainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.springboot.HelloWorldMainApp" />
+    <configuration name="H5EncodeUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.springboot.H5EncodeUtil" />
       <module name="springbootstart" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -116,6 +150,74 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Client.test0 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springbootstart" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.design.strategy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.design.strategy" />
+      <option name="MAIN_CLASS_NAME" value="com.design.strategy.Client" />
+      <option name="METHOD_NAME" value="test0" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QueueTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springbootstart" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jdk.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="jdk" />
+      <option name="MAIN_CLASS_NAME" value="jdk.QueueTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QueueTest.testDelayQueue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springbootstart" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jdk.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="jdk" />
+      <option name="MAIN_CLASS_NAME" value="jdk.QueueTest" />
+      <option name="METHOD_NAME" value="testDelayQueue" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QueueTest.testMockData" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springbootstart" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jdk.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="jdk" />
+      <option name="MAIN_CLASS_NAME" value="jdk.QueueTest" />
+      <option name="METHOD_NAME" value="testMockData" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -123,9 +225,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloWorldMainApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <configuration name="SpringBootMainApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="springbootstart" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.springboot.HelloWorldMainApp" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.springboot.SpringBootMainApp" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -150,7 +252,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HelloWorldMainApp" />
+        <item itemvalue="JUnit.QueueTest.test" />
+        <item itemvalue="JUnit.QueueTest.testDelayQueue" />
+        <item itemvalue="JUnit.QueueTest.testMockData" />
+        <item itemvalue="Application.H5EncodeUtil" />
+        <item itemvalue="JUnit.Client.test0 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -169,6 +275,20 @@
       <workItem from="1562642538374" duration="203000" />
       <workItem from="1562642923602" duration="1031000" />
       <workItem from="1562644809565" duration="1848000" />
+      <workItem from="1571024684848" duration="556000" />
+      <workItem from="1571046546894" duration="597000" />
+      <workItem from="1571050329793" duration="4357000" />
+      <workItem from="1571205452019" duration="1801000" />
+      <workItem from="1571709112351" duration="594000" />
+      <workItem from="1571750144231" duration="1195000" />
+      <workItem from="1571974794974" duration="1196000" />
+      <workItem from="1572328036931" duration="13504000" />
+      <workItem from="1584450332723" duration="20244000" />
+      <workItem from="1584672575697" duration="4745000" />
+      <workItem from="1585666906209" duration="2799000" />
+      <workItem from="1585996275967" duration="14709000" />
+      <workItem from="1586777571070" duration="1196000" />
+      <workItem from="1589005387729" duration="2327000" />
     </task>
     <servers />
   </component>
@@ -180,102 +300,101 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
   </component>
+  <component name="WindowStateProjectService">
+    <state x="2472" y="178" key="#Project_Structure" timestamp="1584627194990">
+      <screen x="1920" y="0" width="1920" height="1030" />
+    </state>
+    <state x="2472" y="178" key="#Project_Structure/1920.0.1920.1030/0.0.1536.824@1920.0.1920.1030" timestamp="1584627194990" />
+    <state x="361" y="74" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585145668595">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="74" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1030/0.0.1536.824@0.0.1536.824" timestamp="1585145668595" />
+    <state x="612" y="183" key="#com.intellij.ide.util.MemberChooser" timestamp="1586001683073">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="612" y="183" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1586001683073" />
+    <state x="2685" y="229" key="#com.intellij.ide.util.MemberChooser/1920.0.1920.1030/0.0.1536.824@1920.0.1920.1030" timestamp="1584627248386" />
+    <state x="389" y="90" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1585998686270">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="389" y="90" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1536.824@0.0.1536.824" timestamp="1585998686270" />
+    <state x="2660" y="275" key="FileChooserDialogImpl" timestamp="1589005896191">
+      <screen x="1920" y="0" width="1920" height="1030" />
+    </state>
+    <state x="592" y="220" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1586227027962" />
+    <state x="592" y="220" key="FileChooserDialogImpl/1920.0.1920.1030/0.0.1536.824@0.0.1536.824" timestamp="1586232288610" />
+    <state x="2660" y="275" key="FileChooserDialogImpl/1920.0.1920.1030/0.0.1536.824@1920.0.1920.1030" timestamp="1589005896191" />
+    <state width="1493" height="383" key="GridCell.Tab.0.bottom" timestamp="1586777512466">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="289" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586002595176" />
+    <state width="1493" height="383" key="GridCell.Tab.0.bottom/1920.0.1920.1030/0.0.1536.824@0.0.1536.824" timestamp="1586777512466" />
+    <state width="1877" height="383" key="GridCell.Tab.0.bottom/1920.0.1920.1030/0.0.1536.824@1920.0.1920.1030" timestamp="1586501382175" />
+    <state width="1493" height="383" key="GridCell.Tab.0.center" timestamp="1586777512466">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="289" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586002595176" />
+    <state width="1493" height="383" key="GridCell.Tab.0.center/1920.0.1920.1030/0.0.1536.824@0.0.1536.824" timestamp="1586777512466" />
+    <state width="1877" height="383" key="GridCell.Tab.0.center/1920.0.1920.1030/0.0.1536.824@1920.0.1920.1030" timestamp="1586501382175" />
+    <state width="1493" height="383" key="GridCell.Tab.0.left" timestamp="1586777512466">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="289" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586002595175" />
+    <state width="1493" height="383" key="GridCell.Tab.0.left/1920.0.1920.1030/0.0.1536.824@0.0.1536.824" timestamp="1586777512466" />
+    <state width="1877" height="383" key="GridCell.Tab.0.left/1920.0.1920.1030/0.0.1536.824@1920.0.1920.1030" timestamp="1586501382175" />
+    <state width="1493" height="383" key="GridCell.Tab.0.right" timestamp="1586777512466">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="289" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586002595176" />
+    <state width="1493" height="383" key="GridCell.Tab.0.right/1920.0.1920.1030/0.0.1536.824@0.0.1536.824" timestamp="1586777512466" />
+    <state width="1877" height="383" key="GridCell.Tab.0.right/1920.0.1920.1030/0.0.1536.824@1920.0.1920.1030" timestamp="1586501382175" />
+    <state x="2579" y="230" key="RollbackChangesDialog" timestamp="1589007487528">
+      <screen x="1920" y="0" width="1920" height="1030" />
+    </state>
+    <state x="2579" y="230" key="RollbackChangesDialog/1920.0.1920.1030/0.0.1536.824@1920.0.1920.1030" timestamp="1589007487528" />
+    <state x="461" y="0" key="SettingsEditor" timestamp="1585996315451">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="461" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1585996315451" />
+    <state x="461" y="109" key="SettingsEditor/1920.0.1920.1030/0.0.1536.824@0.0.1536.824" timestamp="1585145606250" />
+    <state x="2496" y="179" key="SettingsEditor/1920.0.1920.1030/0.0.1536.824@1920.0.1920.1030" timestamp="1584524850686" />
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1589007417514">
+      <screen x="1920" y="0" width="1920" height="1030" />
+    </state>
+    <state x="498" y="180" width="672" height="543" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1585996333769" />
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup/1920.0.1920.1030/0.0.1536.824@1920.0.1920.1030" timestamp="1589007417514" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.1.9.RELEASE/spring-boot-autoconfigure-2.1.9.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/AutoConfigurationPackages.java</url>
+          <line>122</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/concurrent/DelayQueue.java</url>
+          <line>226</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/concurrent/DelayQueue.java</url>
+          <line>282</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>Spring</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.7</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>springbootstart</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.7</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>
