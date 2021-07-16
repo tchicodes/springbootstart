@@ -1,0 +1,22 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: spring-boot
+  cloud:
+    bus:
+      trace:
+        enabled: true
+      destination: testQueue
+  rabbitmq:
+    port: 5672
+    username: guest
+    password: guest
+    host: 10.63.123.114
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
